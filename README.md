@@ -1,7 +1,7 @@
 # WebView-Application
 
 ## Overview
-The WebView-Application is a crucial component of my Leaf Disease Detection project. It serves as a user interface that allows you to access and interact with the project's functionalities through a web view. In this README, you will find detailed information on how to set up and use this application.
+The WebView-Application is a crucial component of my Leaf Disease Detection project. It serves as a user interface that allows you to access and interact with the project's functionalities through a web view. 
 
 ## About the Leaf Disease Detection Project
 The Leaf Disease Detection project is aimed at identifying and diagnosing diseases in plant leaves using computer vision and machine learning techniques. The WebView-Application provides a convenient way to access the project's capabilities.
